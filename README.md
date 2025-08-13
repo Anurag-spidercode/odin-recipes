@@ -1,2 +1,2 @@
 # odin-recipes
-a food recipes website
+A food recipes website, technology used :HTML, CSS, javascript.
